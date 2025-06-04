@@ -14,47 +14,33 @@ Additional Credits to   : ukiro - OTEX 1.1
 ===========================================================================
 * What is included *
 
-New levels              : (Number of levels or "None")
-Sounds                  : Yes / No
-Music                   : Yes / No
-Graphics                : Yes / No
-Dehacked/BEX Patch      : Yes / No
-Demos                   : Yes / No
-Other                   : Yes / No (describe if yes)
-Other files required    : (list unusual files the player is expected to have)
+New levels              : 1
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : Yes
+Other                   : Yes (PDF MANUAL)
 
 
 * Play Information *
 
-Game                    : DOOM / DOOM2 / Heretic / Hexen...
-Map #                   : (For DOOM2 maps, format is Mapxx. Others are ExMx.)
-Single Player           : Designed for / Player starts only / No
-Cooperative 2-4 Player  : Designed for / Player starts only / No
-Deathmatch 2-4 Player   : Designed for / Player starts only / No
-Other game styles       : (specify such things as Skulltag, etc.)
-Difficulty Settings     : Yes / Not implemented
+Game                    : DOOM2
+Map #                   : Map01
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
 
 
-* Construction *
-
-Base                    : New from scratch / Modified (name of original file)
-Build Time              :  
-Editor(s) used          : 
-Known Bugs              : 
-May Not Run With        : Engines/exes known to have a problem with it
-Tested With             : Engines/exes used during testing (include versions)
 
 
 
 * Copyright / Permissions *
 
-Authors (MAY/may NOT) use the contents of this file as a base for
+Authors MAY use the contents of this file as a base for
 modification or reuse.  Permissions have been obtained from original
 authors for any of their resources modified or included in this file.
-
-(delete one of these two paragraphs:)
-
-You MAY not distribute this file in any format.
 
 You MAY distribute this file, provided you include this text
 file, with no modifications.  You may distribute this file in any
