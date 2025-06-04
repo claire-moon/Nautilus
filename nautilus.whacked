@@ -1,0 +1,73 @@
+{
+    "engine": "tables_extended",
+    "iwad": "D:\\SteamLibrary\\steamapps\\common\\Ultimate Doom\\base\\doom2\\DOOM2.WAD",
+    "pwads": [
+        "E:\\GameDev\\DOOM\\Nautilus\\NAUTILUS.wad"
+    ],
+    "windows": {
+        "things": {
+            "x": 0,
+            "y": 0,
+            "width": 640,
+            "height": 640,
+            "visible": 1
+        },
+        "active": "states",
+        "states": {
+            "x": 532,
+            "y": 200,
+            "width": 1024,
+            "height": 768,
+            "visible": 0
+        },
+        "sounds": {
+            "x": 52,
+            "y": 52,
+            "width": 430,
+            "height": 480,
+            "visible": 1
+        },
+        "strings": {
+            "x": 78,
+            "y": 78,
+            "width": 640,
+            "height": 480,
+            "visible": 0
+        },
+        "weapons": {
+            "x": 644,
+            "y": 7,
+            "width": 560,
+            "height": 472,
+            "visible": 1
+        },
+        "ammo": {
+            "x": 130,
+            "y": 130,
+            "width": 520,
+            "height": 250,
+            "visible": 0
+        },
+        "cheats": {
+            "x": 156,
+            "y": 156,
+            "width": 340,
+            "height": 401,
+            "visible": 0
+        },
+        "misc": {
+            "x": 0,
+            "y": 0,
+            "width": 420,
+            "height": 450,
+            "visible": 0
+        },
+        "par": {
+            "x": 26,
+            "y": 26,
+            "width": 400,
+            "height": 380,
+            "visible": 0
+        }
+    }
+}
