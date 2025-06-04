@@ -6,14 +6,36 @@ Doom version = 21
 Patch format = 6
 
 
+Frame 14
+Duration = 8
+
 Frame 15
 Sprite subnumber = 3
+Duration = 6
 
 Frame 16
 Sprite subnumber = 4
+Duration = 7
+Next frame = 1089
+
+Frame 17
+Duration = 8
+Next frame = 1091
 
 Frame 1089
 Sprite number = 3
-Sprite subnumber = 4
-Duration = 5
+Sprite subnumber = 2
+Duration = 15
+Next frame = 1090
+
+Frame 1090
+Sprite number = 3
+Sprite subnumber = 5
+Duration = 15
 Next frame = 10
+
+Frame 1091
+Sprite number = 4
+Sprite subnumber = 32769
+Duration = 6
+Next frame = 1
