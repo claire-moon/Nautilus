@@ -4,8 +4,10 @@ Filename                : nautlius.wad
 Release date            : 
 Author                  : Claire Moon
 Email Address           : clairemoonmusic@protonmail.com
-Other Files By Author   :
+Website                 : clairemoon.neocities.org
+Other Files By Author   : ANOPHTOS (https://clairemoon.itch.io/anophtos)
 Misc. Author Info       : 
+                          
 
 Description             : 
 
